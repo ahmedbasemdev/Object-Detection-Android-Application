@@ -1,0 +1,11 @@
+book
+bottole
+earphone
+glass
+headphone
+keyboard
+laptop
+mobile
+mouse
+pen
+penstand

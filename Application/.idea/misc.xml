@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/activity_home_screen.xml" value="0.11302083333333333" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/activity_main.xml" value="0.11302083333333333" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/activity_main2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/activity_result_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/activity_simple_detection.xml" value="0.11302083333333333" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/activity_splash.xml" value="0.11302083333333333" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/fragment_camera.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/fragment_camera2.xml" value="0.1835372636262514" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/fragment_upload_image.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/layout/info_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/Object Detections/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1755" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/activity_home_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/activity_result_screen.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/activity_show_results.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/fragment_camera.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/layout/info_bottom_sheet.xml" value="0.25416666666666665" />
+        <entry key="..\:/Numan/Object Detection/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

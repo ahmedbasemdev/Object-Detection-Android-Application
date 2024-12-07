@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.databinding:databinding-runtime:7.1.2@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/de7b2fe6cc7cf60573fcfd0c1733a4d0/transformed/databinding-runtime-7.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de7b2fe6cc7cf60573fcfd0c1733a4d0/transformed/databinding-runtime-7.1.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/de7b2fe6cc7cf60573fcfd0c1733a4d0/transformed/databinding-runtime-7.1.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d556f1d146b9ab2f6e458571a3a91ec/transformed/databinding-runtime-7.1.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1d556f1d146b9ab2f6e458571a3a91ec/transformed/databinding-runtime-7.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1d556f1d146b9ab2f6e458571a3a91ec/transformed/databinding-runtime-7.1.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.databinding/databinding-runtime/7.1.2/9bf5fd3f23e5f41e634bdd757528716f598d5a96/databinding-runtime-7.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
